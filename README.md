@@ -23,4 +23,4 @@ I like working on projects that have real-world impact and help strengthen digit
 
 *   🚀  I'm currently working on [Web vulnerability scanner](http://github.com/ganevaaaa/web-vuln-scanner)
 *   🧠  I'm learning Web application security , threat modeling (STRIDE)and security standards like ISO/IEC 27001. Tools: Burp Suite, Nmap, Nikto, Wireshark
-*   🤝  I'm open to collaborating on Cool cybersecurity side quests, consulting-style audit projects,building hacker tools, or anything that breaks stuff (legally)
+*   🤝  I'm open to collaborating on Cool cybersecurity side quests, consulting-style audit projects,building  tools, or anything that breaks stuff (legally)
