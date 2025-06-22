@@ -24,5 +24,6 @@ I'm a Computer Science student passionate about cybersecurity and practical prob
 I like working on projects that have real-world impact and help strengthen digital security. I'm always eager to collaborate, share knowledge, and keep learning from others in the field.
 
 *   🚀  I'm currently working on [Web vulnerability scanner](http://github.com/ganevaaaa/web-vuln-scanner)
-*   🧠  I'm learning Web application security , threat modeling (STRIDE) and  ISO/IEC 27001. Currently exploring GUI development with Python and PySide6 to complement my backend and security experience.
+*   🧠  I'm learning Web application security , threat modeling (STRIDE) and  ISO/IEC 27001.
+*   🧐 Currently exploring GUI development with Python and PySide6 to complement my backend and security experience.
 *   🤝  I'm open to collaborating on cool cybersecurity side quests, consulting-style audit projects, building  tools, or anything that breaks stuff (legally)
