@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-  <img src="banner.png" alt="Banner" width="100%" />
+  <img src="banner2.png" alt="Banner" width="100%" />
 </p>
 Hi 👋 My name is Gabriela Ganeva
 ================================
