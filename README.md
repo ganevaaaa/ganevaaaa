@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="banner2.png" alt="Banner" width="100%" />
 </p>
-Hi 👋 My name is Gabriela Ganeva
+Hi 👋 My name is Gabriela 
+
 ================================
 
 I'm a Computer Science student passionate about cybersecurity and practical problem-solving. I enjoy building tools that simulate real-world threats, like my Python-based web vulnerability scanner. Through hands-on projects, I'm developing skills in network security, secure coding, and threat analysis.
